@@ -1,3 +1,10 @@
+
+const num = 1;
+num = 42;
+
+let number = 1;
+number = 42;
+
 // // features of every programming lanugage:
 // -syntax 
 // -logical operators (if, and, else)
@@ -54,4 +61,5 @@ function makeFullName(firstName, lastName) {
 
 
 // jest
+
 
